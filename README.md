@@ -1,3 +1,2 @@
 # hello_world
-Git &amp; SourceTree Practice !
-Git & Source Tree 연습이라옹
+Git &amp; SourceTree 연습이라옹
